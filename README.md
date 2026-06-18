@@ -1,5 +1,5 @@
 ## Task : Data Visualization
-This repository contains the completion of Task 3 as part of my Data Science internship at CodeAlpha.
+This repository contains the completion of Task 3 as part of my Data Analytics internship at CodeAlpha.
 
 ### 📊 Project Overview
 The main objective of this project is to perform effective data visualization using Python. It involves transforming raw sales and profit data into clear, insightful visual formats to identify business trends and category performance.
